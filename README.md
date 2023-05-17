@@ -27,11 +27,13 @@ ensuring a trustworthy and reliable experience for job seekers.
 
 **Directed By:**
 
-Member 1: [Eslam Shouman](https://www.linkedin.com/in/eslam-shouman-0958091b4/)
+* [Eslam Shouman](https://www.linkedin.com/in/eslam-shouman-0958091b4/)
 
-Member 2: [Rawan ibrahim](https://www.linkedin.com/in/rawan-ibrahim-a01778268) 
+* [Sarah Ahmed](https://www.linkedin.com/in/sarahhahmed)
 
-Member 3: [Mohamed Mahmoud](https://www.linkedin.com/in/mohamed-mahmoud07) 
+* [Rawan ibrahim](https://www.linkedin.com/in/rawan-ibrahim-a01778268) 
+
+* [Mohamed Mahmoud](https://www.linkedin.com/in/mohamed-mahmoud07) 
 
 
 **Date of creation:**
