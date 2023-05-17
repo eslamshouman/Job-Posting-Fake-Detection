@@ -12,10 +12,11 @@ ensuring a trustworthy and reliable experience for job seekers.
 
 
 ## Deployment
+[Deployment Link](https://fake-job-posting-detection.streamlit.app/)
+
 ![image](https://github.com/eslamshouman/Job-Posting-Fake-Detection/assets/76401901/acfcc923-ee16-49aa-aa57-5be966941140)
 
 
-[Link](https://fake-job-posting-detection.streamlit.app/)
 
 
 # Credits
